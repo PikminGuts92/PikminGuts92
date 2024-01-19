@@ -1,5 +1,5 @@
 # Please don't ask me how to use CLI 😓😤💀
-### I'm just a simple music game **HACKER** 💻 that makes tools to hack music games 🎸🎵🎮
+I'm just a simple music game **HACKER** 💻 that makes tools to hack music games 🎸🎵🎮
 
 🦀 *I program in Rust btw* 🦀
 
