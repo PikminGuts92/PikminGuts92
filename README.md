@@ -11,7 +11,7 @@ I'm just a simple music game **HACKER** 💻 that makes tools to hack music game
 🦀 *I program in Rust btw* 🦀
 
 ## Statistics
-[![Cisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=PikminGuts92&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Cisco's GitHub stats](https://github-stats-extended.vercel.app/api?username=PikminGuts92&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 ![Rust](https://img.shields.io/badge/rust-%23F64D00.svg?style=flat&logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
